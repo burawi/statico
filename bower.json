@@ -1,0 +1,18 @@
+{
+  "name": "statico",
+  "description": "static web framework",
+  "main": "index.html",
+  "authors": [
+    "burawi <burawi.ba@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/burawi/statico",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower",
+    "test",
+    "tests"
+  ]
+}
